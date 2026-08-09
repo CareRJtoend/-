@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "email": "2159745853@qq.com",
+    "smtp_server": "smtp.qq.com",
+    "smtp_port": "587",
+    "sender_email": "2159745853@qq.com",
+    "sender_password": "zrnrlcgebvycebag",
+    "updated_at": "2026-05-27T14:16:40.375826"
+  }
+}
